@@ -1,2 +1,2 @@
-# Simple-Student-Information-System-with-Python-Flask
-For school purposes only.
+# Student-Information-System
+Student Information System implemented using Python Flask
